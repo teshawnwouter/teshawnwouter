@@ -11,3 +11,5 @@ Ik ben een programeur die extreem leergierig is🤓 en heeft ook leuke kwaliteit
 ![](https://github-readme-streak-stats.herokuapp.com/?user=teshawnwouter&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teshawnwouter&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+Email:teshawnwouter@hotmail.nl
+Telefoon: 0612953096
