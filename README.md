@@ -1,24 +1,5 @@
-## Hi there 👋
+# ❄️ Mijn naam is teshawn Wouter👋
 
-🔭 I’m currently working on  A new Game i have code named called Heaven2Hell
-- 🌱 I’m currently learning  C# and unity
-- 🤔 I’m looking for help with  Creating code that done Without or with a little amount of help or guideance
-- 💬 Ask me about  My intreastt i love learning and want to improve as fast as possible
-- 📫 How to reach me: teshawnwouter@hotmail.nl or 0612963096
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love animals
+**`Digital Crafsmen (GameDeveloper)`**
 
-<!--
-**teshawnwouter/teshawnwouter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  A new Game i have code named called Heaven2Hell
-- 🌱 I’m currently learning  C# and unity
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with  Creating code that done Without or with a little amount of help or guideance
-- 💬 Ask me about  My intreastt i love learning and want to improve as fast as possible
-- 📫 How to reach me: teshawnwouter@hotmail.nl or 0612963096
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love animals
--->
+Ik ben een programeur die extreem leergierig is🤓 en heeft ook leuke kwaliteiten. Sommige zijn raar en somige zijn grappig. Ik kan snel leren en goed aanpassen na de situatie die op hand is.Ik kan werken in unity C# en werk ook aan solo projecten terwijl ik aan het studeren ben. Ik ben ook bezig met het leren van blender en het make van models `Models zijn momnenteel niet klaar voor presentatie`. Naast het maken van models kan ik ook ideen pitchen en GameDesigne documenten maken. Ik maak ook graag technical designes over me werk en probeer zo duidelijk mogenlijk te zijn `ben nog bezig met het refinen van die technic`. Ik kan snel codeer talen leren en mijn best doen om aantepassen naar hun syntaxing. Ik hou van nieuwe functies leren en werk het best in kalme ruimtes `dan ben ik op me best`. Ik kan heel gezellig zijn op de werk vloer en hou der van om mensen te leren kennen `ik ben redlijk slecht met namen`.
