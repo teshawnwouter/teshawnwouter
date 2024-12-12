@@ -1,4 +1,4 @@
-# ❄️ Mijn naam is teshawn Wouter `Digital Crafsmen (GameDeveloper)`👋
+# ❄️ Mijn naam is Teshawn Wouter `GameDeveloper`
 
 
 
